@@ -1,7 +1,7 @@
 #Notification settings (please note: any "command" could have 'exit 1', make sure the notification will have appropriate details about failure)
 notifications:
   email:
-    recipients: "pragnesh.9@icloud.com"
+    recipients: "Dhruven_Shah@epam.com"
     on_start: "never"
     on_failure: "always"
     on_success: "always"
